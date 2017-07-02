@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Script to commit key files
 #
 git add ./vui_notebook.ipynb
